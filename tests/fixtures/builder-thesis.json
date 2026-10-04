@@ -1,0 +1,50 @@
+{
+  "fund_id": null,
+  "fund_name": "BASE Consumer Szn",
+  "manager_type": "pro",
+  "thesis_statement": "Pre-TGE consumer apps on Base, before CT notices. I've shipped two Base mini-apps to 40k users and I fund the builders I already ship alongside.",
+  "macro_view": "Base app installs went from a trickle to a flood after the mini-app surface shipped, and the builders I ship alongside are raising now.",
+  "sectors": [
+    "other"
+  ],
+  "edge": "I shipped two Base mini-apps to 40k users and my wallet is public; I fund the builders I already ship alongside.",
+  "instrument": [
+    "equity",
+    "token-warrant"
+  ],
+  "stage": "pre-token",
+  "chain_scope": [
+    "Base"
+  ],
+  "strategy_style": "conviction",
+  "risk_profile": "aggressive",
+  "target_allocation": [
+    {
+      "asset_or_sector": "consumer apps",
+      "pct": 70
+    },
+    {
+      "asset_or_sector": "reserves",
+      "pct": 30
+    }
+  ],
+  "liquid_locked_split": "70% deployed, 30% held back for follow-ons.",
+  "check_size": "$25k to $75k per position, occasionally more for a second cheque.",
+  "position_count": 12,
+  "exit_liquidity": "Redemption at epoch settlement, twelve-month lockup from deposit, no secondary.",
+  "lockups": "I am locked on the same terms as depositors: twelve months, no early release.",
+  "transparency": "Multisig address published, monthly PnL post, live dashboard.",
+  "governance": "manager-discretion",
+  "anti_portfolio": "No memecoins, no pure infrastructure plays, nothing already post-TGE.",
+  "value_add": "I introduce founders to the Base teams I ship with and review their mini-app before launch.",
+  "sourcing": "Builders I already ship alongside, the Base builder group chats, and inbound from my own app users.",
+  "fund_size_target": "$1.5M for the first School.",
+  "investor_eligibility": "club",
+  "points_incentives": "Depositors earn Fish Points for sourcing deals I invest in.",
+  "time_horizon": "1-3yr",
+  "entry_exit_rules": "No position above 20% of the book; I do not add after a token generation event.",
+  "benchmark": "outperform ETH",
+  "thesis_full_md": "FICTIONAL EXAMPLE — not a real fund, not a recommendation\n\n# BASE Consumer Szn\n\n> Pre-TGE consumer apps on Base, before CT notices. I've shipped two Base mini-apps to 40k users and I fund the builders I already ship alongside.\n\n## Policy card\n\n| Field | Value |\n| --- | --- |\n| Sectors | other |\n| Instruments | equity, token-warrant |\n| Stage | pre-token |\n| Chains | Base |\n| Strategy style | conviction |\n| Risk profile | aggressive |\n| Positions | 12 |\n| Governance | manager-discretion |\n| Investor eligibility | club |\n| Time horizon | 1-3yr |\n| Target allocation | |\n| — consumer apps | 70% |\n| — reserves | 30% |\n| — sum of the rows above | 100% |\n\n**The bet.** Base app installs went from a trickle to a flood after the mini-app surface shipped, and the builders I ship alongside are raising now.\n\n**Why me.** I shipped two Base mini-apps to 40k users and my wallet is public; I fund the builders I already ship alongside.\n\n**Sourcing.** Builders I already ship alongside, the Base builder group chats, and inbound from my own app users.\n\n**How it's built.** $25k to $75k per position, occasionally more for a second cheque.\n\n**Positions.** 12\n\n**Liquid / locked split.** 70% deployed, 30% held back for follow-ons.\n\n**Getting out.** Redemption at epoch settlement, twelve-month lockup from deposit, no secondary.\n\n**Lockups.** I am locked on the same terms as depositors: twelve months, no early release.\n\n**Won't touch.** No memecoins, no pure infrastructure plays, nothing already post-TGE.\n\n**Terms & transparency.** $1.5M for the first School.\n\n**Investor eligibility.** club\n\n**Transparency.** Multisig address published, monthly PnL post, live dashboard.\n\n**Governance.** manager-discretion\n\n**Points & incentives.** Depositors earn Fish Points for sourcing deals I invest in.\n\n**Value add.** I introduce founders to the Base teams I ship with and review their mini-app before launch.\n\n**Rules.** No position above 20% of the book; I do not add after a token generation event.\n\n**Benchmark.** outperform ETH\n\n## Not set yet\n\n- fund_id (assigned by the platform when filed)\n\nFish School organizers file this same policy; the School's screener, memo skeleton and deal companion read it.\n\n## Disclaimer\n\nThis skill drafts work product for review by a qualified professional. It makes no investment recommendation, gives no legal advice, creates no attorney-client relationship, and executes nothing. Every number it produces is arithmetic on inputs you supplied or terms quoted from documents you supplied; where an input is absent it says so rather than assuming a value. Iron Key Capital and Fish Network do not receive your documents, inputs or outputs.\n",
+  "completeness_score": 94,
+  "disclaimer_ack": true
+}

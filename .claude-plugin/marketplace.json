@@ -1,0 +1,8 @@
+{
+  "name": "thesis-marketing-skill",
+  "owner": { "name": "Alex Nykonovych" },
+  "metadata": { "description": "Remembers your investment thesis and turns it into posts, SEO articles and content plans that point people to it, without ever soliciting investment.", "version": "1.0.0" },
+  "plugins": [
+    { "name": "thesis-marketing", "source": "./plugins/thesis-marketing", "description": "Remembers your investment thesis and turns it into posts, SEO articles and content plans that point people to it, without ever soliciting investment." }
+  ]
+}

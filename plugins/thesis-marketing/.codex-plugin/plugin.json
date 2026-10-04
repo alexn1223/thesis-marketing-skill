@@ -1,0 +1,24 @@
+{
+  "name": "thesis-marketing",
+  "version": "1.0.0",
+  "description": "Remembers your investment thesis and turns it into posts, SEO articles and content plans that point people to it, without ever soliciting investment.",
+  "author": { "name": "Alex Nykonovych" },
+  "keywords": ["investment thesis", "marketing", "seo", "social posts", "fish network"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Thesis Marketing",
+    "shortDescription": "Posts and SEO content built around your thesis",
+    "longDescription": "Set up your investment thesis once. Thesis Marketing remembers it and writes posts for X, LinkedIn, Telegram, Farcaster, Instagram and Threads, plus SEO articles, a thesis landing page, post ideas and a content calendar. Every draft is checked so it never reads as an offer to invest.",
+    "developerName": "Alex Nykonovych",
+    "category": "Productivity",
+    "capabilities": ["Interactive", "Write"],
+    "defaultPrompt": [
+      "Set up my investment thesis",
+      "Write a LinkedIn post about my thesis",
+      "Write an SEO article for my thesis page"
+    ],
+    "brandColor": "#6D28D9",
+    "composerIcon": "./assets/icon.svg",
+    "logo": "./assets/icon.svg"
+  }
+}

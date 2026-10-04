@@ -1,0 +1,12 @@
+{
+  "name": "thesis-marketing-skill",
+  "interface": { "displayName": "Thesis Marketing" },
+  "plugins": [
+    {
+      "name": "thesis-marketing",
+      "source": { "source": "local", "path": "./plugins/thesis-marketing" },
+      "policy": { "installation": "AVAILABLE", "authentication": "ON_INSTALL" },
+      "category": "Productivity"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "thesis-marketing",
+  "description": "Remembers your investment thesis and turns it into posts, SEO articles and content plans that point people to it, without ever soliciting investment.",
+  "version": "1.0.0",
+  "author": { "name": "Alex Nykonovych" }
+}

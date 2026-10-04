@@ -1,0 +1,4 @@
+interface:
+  display_name: "Thesis Marketing"
+  short_description: "Posts and SEO content built around your investment thesis"
+  default_prompt: "Use $thesis-marketing to load my thesis and write a post about it."
